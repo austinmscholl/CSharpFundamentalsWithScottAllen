@@ -1,4 +1,5 @@
 # A Pluralsight course by Scott Allen
 
-## C# Fundamentals
-## Unit Testing
+### Topics Covered:
+* C# Fundamentals
+* Unit Testing
