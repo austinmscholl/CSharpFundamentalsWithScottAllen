@@ -1,1 +1,0 @@
-"# CSharpFundamentalsWithScottAllen"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:austinmscholl/CSharpFundamentalsWithScottAllen.gitgit push -u origin master
