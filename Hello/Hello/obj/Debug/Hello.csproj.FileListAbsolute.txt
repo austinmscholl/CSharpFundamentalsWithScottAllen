@@ -1,0 +1,7 @@
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Hello\Hello\bin\Debug\Hello.exe.config
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Hello\Hello\bin\Debug\Hello.exe
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Hello\Hello\bin\Debug\Hello.pdb
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Hello\Hello\obj\Debug\Hello.exe
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Hello\Hello\obj\Debug\Hello.pdb

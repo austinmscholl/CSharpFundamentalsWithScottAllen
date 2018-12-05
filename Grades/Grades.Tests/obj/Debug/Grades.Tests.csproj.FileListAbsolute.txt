@@ -1,0 +1,14 @@
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojAssemblyReference.cache
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.csproj.CoreCompileInputs.cache
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.csproj.CopyComplete
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb

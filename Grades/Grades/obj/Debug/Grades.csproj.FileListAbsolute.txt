@@ -1,0 +1,7 @@
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades\bin\Debug\Grades.exe
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades\bin\Debug\Grades.pdb
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades\obj\Debug\Grades.exe
+C:\code\tutorials\C#\Pluralsight\C#Fundamentals\Grades\Grades\obj\Debug\Grades.pdb
